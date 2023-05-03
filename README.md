@@ -58,7 +58,7 @@ GitHub & Visual Studio Code
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://marcodiaz2000.github.io/awesome_books/)
+- [Live Demo Link](https://faisalakb.github.io/awesomeBookES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +101,7 @@ To run tests, run a live server on your computer..
 
 ### Deployment
 
-You can deploy this project in this link <a href="https://marcodiaz2000.github.io/awesome_books/">www.github.com/faisalakb/awesomeBookES6.gits</a>
+You can deploy this project in this link <a href="https://faisalakb.github.io/awesomeBookES6/">www.github.com/faisalakb/awesomeBookES6.gits</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
