@@ -58,16 +58,10 @@ GitHub & Visual Studio Code
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://marcodiaz2000.github.io/awesome_books/)
+- [Live Demo Link](https://faisalakb.github.io/awesomeBookES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## 🔭 Video Presentation <a name="video"></a>
-
-- [Video Presentation](#)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
@@ -101,7 +95,7 @@ To run tests, run a live server on your computer..
 
 ### Deployment
 
-You can deploy this project in this link <a href="https://marcodiaz2000.github.io/awesome_books/">www.github.com/faisalakb/awesomeBookES6.gits</a>
+You can deploy this project in this link <a href="https://faisalakb.github.io/awesomeBookES6">www.github.com/faisalakb/awesomeBookES6.gits</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,15 +105,21 @@ You can deploy this project in this link <a href="https://marcodiaz2000.github.i
 
 👤 **Faisal Mumtaz**
 
-- GitHub: [@MarcoDiaz](https://github.com/faisalakb)
-- Twitter: [@MarcoDiaz](https://twitter.com/Faisalakb786)
+- GitHub: [@faisalakb](https://github.com/faisalakb)
+- Twitter: [@faisalakb786](https://twitter.com/Faisalakb786)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/faisal-mumtaz-514a221a6/)
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **About Page**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
