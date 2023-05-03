@@ -1,8 +1,8 @@
 import {
   lst, cont, addBo, clickBtn,
 } from './modules/getHtmlContent.js';
-import { DateTime } from './modules/luxon.js';
 import BookManager from './modules/manageBooks.js';
+import { DateTime } from './modules/luxon.js';
 
 const bookManager = new BookManager();
 
