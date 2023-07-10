@@ -25,12 +25,20 @@ export default class BookManager {
   addBook = () => {
     const title = document.getElementById('title').value;
     const author = document.getElementById('author').value;
-    const id = new Date().getTime().toString();
-    const book = new Book(title, author, id);
-    this.tbody.innerHTML += BookManager.createBookElement(book);
-    this.books.push({ title: book.title, author: book.author, id: book.id });
-    localStorage.setItem('books', JSON.stringify(this.books));
-    alert('Data inserted successfully');
+    if (title === '' || author === '') {
+      alert('Please insert the data');
+    } else {
+      const inputElemnet = document.getElementsByTagName('input');
+      const id = new Date().getTime().toString();
+      const book = new Book(title, author, id);
+      this.tbody.innerHTML += BookManager.createBookElement(book);
+      this.books.push({ title: book.title, author: book.author, id: book.id });
+      for (let i = 0; i < inputElemnet.length; i += 1) {
+        inputElemnet[i].value = '';
+      }
+      localStorage.setItem('books', JSON.stringify(this.books));
+      alert('Data inserted successfully');
+    }
   };
 
   removeBook = (id) => {
