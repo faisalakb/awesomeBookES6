@@ -125,3 +125,7 @@ hr {
   width: 100%;
   text-align: center;
 }
+
+.hover-element {
+  cursor: pointer;
+}
